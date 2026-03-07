@@ -25,7 +25,7 @@ AKA [peter.schuller@infidyne.com](mailto:peter.schuller@infidyne.com)
 
 I mostly build tools. A lot of them are in Rust. The recurring themes are local workflows, automation, packaging,
 verification, and reducing the amount of nonsense between me and the machine. I like software that stays inspectable,
-fails in ways you can understand, and does not require a service or a control plane unless there is a very good reason.
+fails in ways you can understand.
 
 There is also a second category here: practical documentation. Sometimes that means notes about random technical topics.
 Sometimes it means an owner's guide for a machine I wanted better documentation for. Same basic idea, really. I prefer
@@ -34,4 +34,4 @@ useful artifacts over polished ones.
 ## The rest
 
 There are other useful repos here, but the lists above are the right entry point. The rest is a mix of supporting
-pieces, experiments, narrower tools, and dead-end side quests that were still worth keeping.
+pieces, experiments, narrower tools, and dead-end side quests - most of them old and stale.
