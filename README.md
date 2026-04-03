@@ -4,6 +4,7 @@ AKA [peter.schuller@infidyne.com](mailto:peter.schuller@infidyne.com)
 
 ## Start here
 
+- [`claudecage`](https://github.com/scode/claudecage): Runs Claude Code in a Docker container so `--dangerously-skip-permissions` is contained.
 - [`leiter`](https://github.com/scode/leiter): Turns Claude Code into a self-learning partner agent.
 - [`relocal`](https://github.com/scode/relocal): Runs Claude Code remotely and makes it feel local.
 - [`saltybox`](https://github.com/scode/saltybox): Passphrase-based encryption.
