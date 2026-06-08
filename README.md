@@ -22,6 +22,7 @@ AKA [peter.schuller@infidyne.com](mailto:peter.schuller@infidyne.com)
 - [`docs`](https://github.com/scode/docs): Documentation of random things for my own and other people's purposes.
 - [`ktm-500-exc-f`](https://github.com/scode/ktm-500-exc-f): Unofficial owner's guide for the 2025 KTM EXC-F.
 - [`stark-varg-ex`](https://github.com/scode/stark-varg-ex): Unofficial owner's guide for the Stark Varg Ex.
+- [`stark-parts`](https://github.com/scode/stark-parts): Unofficial Stark parts catalog browser/search.
 
 ## Common thread
 
