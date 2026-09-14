@@ -4,12 +4,13 @@ AKA [peter.schuller@infidyne.com](mailto:peter.schuller@infidyne.com)
 
 ## Start here
 
+- [`farhelm`](https://github.com/scode/farhelm): Take the helm - control your agents far away and local.
+- [`saltybox`](https://github.com/scode/saltybox): Passphrase-based encryption.
+- [`treeward`](https://github.com/scode/treeward): File tree checksumming and verification.
 - [`claudecage`](https://github.com/scode/claudecage): Runs Claude Code in a Docker container so
   `--dangerously-skip-permissions` is contained.
 - [`leiter`](https://github.com/scode/leiter): Turns Claude Code into a self-learning partner agent.
 - [`relocal`](https://github.com/scode/relocal): Runs Claude Code remotely and makes it feel local.
-- [`saltybox`](https://github.com/scode/saltybox): Passphrase-based encryption.
-- [`treeward`](https://github.com/scode/treeward): File tree checksumming and verification.
 - [`dotfiles`](https://github.com/scode/dotfiles): My rc/config files.
 - [`juggler`](https://github.com/scode/juggler): TUI/console TODO manager with a Gmail inbox-like interface.
 - [`scode-graphite-skill`](https://github.com/scode/scode-graphite-skill): Opinionated agent skill for Graphite.
