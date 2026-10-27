@@ -8,6 +8,6 @@
     "**/*-lock.json"
   ],
   "plugins": [
-    "npm:@dprint/markdown@0.28.0"
+    "npm:@dprint/markdown@0.28.2"
   ]
 }
